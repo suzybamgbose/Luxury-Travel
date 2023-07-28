@@ -1,0 +1,90 @@
+*{
+    font-family:cursive;
+}
+h1 {
+    color: rgb(160, 86, 43);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(182, 127, 60);
+}
+
+#navbar{
+    font-size: 40px;
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(227, 153, 74);
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+
+}
+
+#navbar a:hover{
+    color: hsla(37, 75%, 44%, 0.866);
+}
+
+img{
+    width: 30%;
+    
+}
+
+.beach{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+}
+
+.photos{
+    display: flex;
+    justify-content:space-around;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.number{
+
+    font-size: 20px;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-around;
+    width: 45%;
+}
+
+a{
+    color: rgb(123, 94, 19);
+}
+
+.bottom{
+    font-size: 40px;
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(227, 153, 74);   
+}
+
+/* .icon {
+    display: flex;
+    justify-content: flex-start;
+    width: 15%; */
+/* } */
